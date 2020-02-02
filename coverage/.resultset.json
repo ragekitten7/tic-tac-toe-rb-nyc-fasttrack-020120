@@ -1,0 +1,52 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/declarative-sailor-1075/tic-tac-toe-rb-nyc-fasttrack-020120/lib/tic_tac_toe.rb": [
+        1,
+        30,
+        30,
+        30,
+        30,
+        30,
+        null,
+        null,
+        1,
+        47548,
+        null,
+        null,
+        1,
+        29,
+        null,
+        null,
+        1,
+        47550,
+        null,
+        null,
+        1,
+        47548,
+        null,
+        null,
+        1,
+        47555,
+        47549,
+        47545,
+        47545,
+        25,
+        25,
+        null,
+        47520,
+        null,
+        null,
+        null,
+        1,
+        12,
+        12,
+        35,
+        23,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1580671693
+  }
+}
